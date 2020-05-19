@@ -117,46 +117,43 @@ This was the part of the code to control the mini servo. It still needs to be mo
 ![Image](pd5.png)
 This is the prototype of the project that I am going to create. This was built using carboard as it was only a rough outline of how I wanted the final project to look. Creating this prototype allowed for me to correctly find out the measurments of the project so that when I am making the final project, I successfully use the correct measurements to ensure that everything fits perfectly.
 
-![Image](pd6.png)
+![Image](pd66.png)
 
 
-![Image](pd7.png)
+![Image](pd77.png)
 
 
-![Image](pd8.png)
+![Image](pd88.png)
 
 
-![Image](pd9.png)
+![Image](pd99.png)
 
 
-![Image](pd10.png)
+![Image](pd100.png)
 
 
-![Image](pd11.png)
+![Image](pd110.png)
 
 
-![Image](pd12.png)
+![Image](pd120.png)
 
 
-![Image](pd13.png)
+![Image](pd130.png)
 
 
-![Image](pd14.png)
+![Image](pd140.png)
 
 
-![Image](pd15.png)
+![Image](pd150.png)
 
 
-![Image](pd16.png)
+![Image](pd160.png)
 
 
-![Image](pd17.png)
+![Image](pd170.png)
 
 
-![Image](pd18.png)
-
-
-![Image](pd19.png)
+![Image](pd180.png)
 
 ## Final code ##
 
