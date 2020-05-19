@@ -119,31 +119,45 @@ This is the prototype of the project that I am going to create. This was built u
 
 ![Image](pd6.png)
 
+
 ![Image](pd7.png)
+
 
 ![Image](pd8.png)
 
+
 ![Image](pd9.png)
+
 
 ![Image](pd10.png)
 
+
 ![Image](pd11.png)
+
 
 ![Image](pd12.png)
 
+
 ![Image](pd13.png)
+
 
 ![Image](pd14.png)
 
+
 ![Image](pd15.png)
+
 
 ![Image](pd16.png)
 
+
 ![Image](pd17.png)
+
 
 ![Image](pd18.png)
 
+
 ![Image](pd19.png)
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
