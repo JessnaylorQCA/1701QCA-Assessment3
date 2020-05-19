@@ -67,11 +67,15 @@ The following source shows the code required for an alarm to play. This can be b
 
 https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
 
-This source explains how to use the BBC Micro: bit to control the servo. This is important as it will assist me in getting the servo to work effectively and spin the platform at the correct speed. 
+This source explains how to use the BBC Micro:bit to control the servo. This is important as it will assist me in getting the servo to work effectively and spin the platform at the correct speed. 
 
 https://support.microbit.org/support/solutions/articles/19000024000-fault-finding-with-a-micro-bit
 
-In the past, I have had issues attempting to get the micro: bit to work. This website gives me a step by step guide as to how to get the micro: bit working again if the issues reoccur. This is extremely beneficial as it can endure that I do not waste time trying to fix the micro: bit on my own.
+In the past, I have had issues attempting to get the micro:bit to work. This website gives me a step by step guide as to how to get the micro: bit working again if the issues reoccur. This is extremely beneficial as it can endure that I do not waste time trying to fix the micro: bit on my own.
+
+https://www.youtube.com/watch?v=qdX86in2YXo
+
+This youtube video assisted me in learning how to correctly connect my servo motor to my micro:bit breadboard. It is a quick and easy video that was clear and helped me set up the servo motor in just a few minutes. 
 
 
 ## Conceptual development ##
