@@ -81,7 +81,7 @@ This youtube video assisted me in learning how to correctly connect my servo mot
 ## Conceptual development ##
 
 ### Design intent ###
-In today's society, it is extremely common for people to forget to remain hydrated due to their busy schedule. This project will remind users when they need to drink water to ensure that they remain hydrated and healthy throughout the day. 
+In today's society, it is extremely common for people to forget to remain hydrated due to their busy schedule. Dehydration can cause many issues including foggy memory, irritability and an increase in anxitey. Dehydration has also been proven to be a huge contbutor to kindey stones. This project is a simple item that wouls assist these individuals who forget to remain hydrated throughout the day. This project will remind users when they need to drink water to ensure that they remain hydrated and healthy throughout the day. 
 
 ### Design ideation ###
 
