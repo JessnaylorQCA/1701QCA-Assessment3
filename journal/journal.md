@@ -21,14 +21,16 @@ How its similar - This project is similar to the project that I am creating beca
 
 ### Related Project 3 ###
 Making a Room Alarm with Micro: bit
+
 https://www.youtube.com/watch?v=igeUhVMqVRw
 
 ![Image](related3.png) 
 
 How its similar - This project is similar to the project that I am creating because it once again is an alarm. This is a factor that is going to be used in this project. However, this alarm is activated when it is trigger, acting as a security system, whereas my project has an alarm that goes off after a certain time rather than when it is triggered.
 
-#Related Project 4 ###
+### Related Project 4 ###
 Micro: bit Name Tag
+
 https://www.seeedstudio.com/blog/2019/12/10/top-25-microbit-projects-for-beginners-2019/
 
 ![Image](related4.png)
