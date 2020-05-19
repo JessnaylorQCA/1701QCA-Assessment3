@@ -117,41 +117,55 @@ This is the prototype of the project that I am going to create. This was built u
 
 ![Image](pd66.png)
 
+This is the box that I chose to use for my final project. Due to corona, my original budget for spending on this project was severly cut back. This meant that I was given no choice but to use materials that are cheap. This is why I chose to use carboard. 
 
 ![Image](pd77.png)
 
+This was the first layer of paint that I put on. I wanted the main coat of paint to apply nice and smoothly to the box so I placed this first layer down to ensure that the blue went on well and did not look patchy. 
 
 ![Image](pd88.png)
 
+This was the main coat of paint that I chose to use. This is a dark colour that I felt would work extrmely well with the colour sheme that I was going for. This would not be the colour of every one that was created if this were to be developed more in the future. 
 
 ![Image](pd99.png)
 
+This was what the box looked like once it had been painted. This was only one of several coats of paint.
 
 ![Image](pd100.png)
 
+I then painted on the title of the project. I wanted ot use a bright colour for this that would stand out from the box itself. I origionally layered on a white coat and then once that had dried I moved onto a yellow coat. This brightens up the box and immediately draws the users attention to the name. 
 
 ![Image](pd110.png)
 
+The sign was the next item that I created. This involved a bamboo stick that I shortened. I then painted the bamboo stick black. Once this was done. I Cut out another piece of carboard and painted it white. Once the paint had dried I wrote on the sign "time to drink water" in black marker. I chose to write it in pen rather than in paint because I felt as though it would be substnacially neater if I wrote it in pen. 
 
 ![Image](pd120.png)
 
+This is the compartment that I built for behind the bottle section. This gave the section a more enclosed, neat look where the bottle could securely fit into. 
 
 ![Image](pd130.png)
 
+This is the section that I had to cut out at the top of the box so that the servo motor would effectively be able to the sign from side to side whilst still remaining hidden by the box.
 
 ![Image](pd140.png)
 
+This is the setup that I had built for the servo motor onto the micro:bit breadboard. This was one of the steps towards getting the servo motor to correctly work. 
 
 ![Image](pd150.png)
 
+This is what the back of the box looked like before everything had been secured into their final positions. 
 
 ![Image](pd160.png)
 
+This is what the back compartment looked like once the micro:bit and breadboard had been secured and the bottle compartment had been fitted. 
 
 ![Image](pd170.png)
 
+This is what the project looked like once I had set everything up. This is what the users would see. 
 
 ![Image](pd180.png)
+
+This is what the project looks like when the battery pack was attached to the micro:bit. As you can see, the micro:bit has a smiley face that is shown on the screen. 
 
 ## Final code ##
 
