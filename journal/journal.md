@@ -102,14 +102,48 @@ In today's society, it is extremely common for people to forget to remain hydrat
 ![Image](iflow.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+![Image](pd1.png)
+This was the first rough sketch of the main idea. In this sketch, i wrote in a step by step process, how the project owuld work and what the outputs would be/how they would be acheived. I also wrote out the base materials that I assumed would have been required at the time.
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+![Image](pd2.png)
+This was a more thorough materials list that I wrote once I had chosen the project that I was going to create. This gave me an idea as to what I would need for both the prototype and the final project. It is still yet to be expanded.
 
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+![Image](pd3.png)
+This is part of the code that I have been testing. Rather than doing all of the code at once, I decided to break it down so that I could ensure that each section of my code is correct. This is the code that I was working on for the alarm rhat is going to play. In this code I worked on finding the correct melody that I wanted to play to alert the users.
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+![Image](pd4.png)
+This was the part of the code to control the mini servo. It still needs to be modified and added to, but I was focusing on getting a base for this code down so that I could unerstand how and if it works before I move forward.
 
+![Image](pd5.png)
+This is the prototype of the project that I am going to create. This was built using carboard as it was only a rough outline of how I wanted the final project to look. Creating this prototype allowed for me to correctly find out the measurments of the project so that when I am making the final project, I successfully use the correct measurements to ensure that everything fits perfectly.
+
+![Image](pd6.png)
+
+![Image](pd7.png)
+
+![Image](pd8.png)
+
+![Image](pd9.png)
+
+![Image](pd10.png)
+
+![Image](pd11.png)
+
+![Image](pd12.png)
+
+![Image](pd13.png)
+
+![Image](pd14.png)
+
+![Image](pd15.png)
+
+![Image](pd16.png)
+
+![Image](pd17.png)
+
+![Image](pd18.png)
+
+![Image](pd19.png)
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
