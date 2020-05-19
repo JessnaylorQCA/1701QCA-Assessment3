@@ -88,13 +88,13 @@ In today's society, it is extremely common for people to forget to remain hydrat
 
 ### Final design concept ###
 ### Design concept 1 ###
-![Image](dc11.png)
+![Image](dc1.png)
 
 ### Design concept 2 ###
-![Image](dc22.png)
+![Image](dc2.png)
 
 ### Final design concept ###
-![Image](fdc.png)
+![Image](dc3.png)
 
 
 ### Interaction flowchart ###
