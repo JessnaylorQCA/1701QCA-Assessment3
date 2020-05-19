@@ -1,37 +1,101 @@
-# 1701QCA Final project journal: *Insert your name here*
-
-<!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
-
-<!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
+# 1701QCA Final project journal: Jessica Naylor
 
 ## Related projects ##
-<!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
+### Related project 1 ###
+Security Box
+
+https://make.techwillsaveus.com/microbit/activities/security-box
+
+![Image](related1.png)
+
+This project is related to the project that I am creating because it sets off an alarm. This is a feature that is being utilised in my project.  The alarm in this project is used to alert the owner when someone has opened the box, whereas the alarm in my project is being used to alert the user when it is time to have another drink. 
+
+### Related project 2 ###
+Countdown Timer
+
+https://makecode.microbit.org/projects/watch/timer
+
+![Image](related2.png)
+
+How its similar - This project is similar to the project that I am creating because it involves a timer that countdown. In my project, the timer will reactivate every 5 minutes, this will then trigger an output that tells the user it is time to drink once again. 
+
+### Related Project 3 ###
+Making a Room Alarm with Micro: bit
+https://www.youtube.com/watch?v=igeUhVMqVRw
+
+![Image](related3.png) 
+
+How its similar - This project is similar to the project that I am creating because it once again is an alarm. This is a factor that is going to be used in this project. However, this alarm is activated when it is trigger, acting as a security system, whereas my project has an alarm that goes off after a certain time rather than when it is triggered.
+
+#Related Project 4 ###
+Micro: bit Name Tag
+https://www.seeedstudio.com/blog/2019/12/10/top-25-microbit-projects-for-beginners-2019/
+
+![Image](related4.png)
+
+How its similar - This project is similar to the project that I am creating because it displays a string of text on the micro: bit LED screen. My project will display the words “drink water” when the timer is up. 
+
+### Related project 5 ###
+Reading Temperature Using Micro: bit
+
+https://www.seeedstudio.com/blog/2019/12/10/top-25-microbit-projects-for-beginners-2019/
+
+![Image](related5.png)
+
+This project is related to the project that I am creating because it uses a motor to control the temperature gauge. I will be using a motor in my project to turn the platform that the water bottle sits on. 
+
+### Related project 6 ###
+Micro: bit Egg Timer
+
+https://www.myminifactory.com/object/3d-print-micro-bit-egg-timer-18361
+
+![Image](related6.png)
+
+This project is related to the project that I am creating because it is a timer. In my project, I will be using an automatic countdown timer to indicate when the outputs go off. This project lets the individual once the egg has finished cooking using an automatic timer. 
+
 
 ### *Insert name of related project here* ###
+(missingimage.png)
 
-<!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
 
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
-
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
 
 ## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+### *Brief resource name/description* ###
+https://makecode.microbit.org/device/servo
+
+As I have not tested the motor yet, I am unsure as to whether I will need to use a mini servo instead in my project to assist with the turning of the water bottles platform. This site explains how to equip the servo with “crocodile clips” that have been created from male strips. 
+
+https://makecode.microbit.org/v0/86038-41904-40055-73164
+
+The following source shows the code required for an alarm to play. This can be beneficial when creating the code for this project as it assists in creating alarm reminding the user to drink water. 
+
+https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
+
+This source explains how to use the BBC Micro: bit to control the servo. This is important as it will assist me in getting the servo to work effectively and spin the platform at the correct speed. 
+
+https://support.microbit.org/support/solutions/articles/19000024000-fault-finding-with-a-micro-bit
+
+In the past, I have had issues attempting to get the micro: bit to work. This website gives me a step by step guide as to how to get the micro: bit working again if the issues reoccur. This is extremely beneficial as it can endure that I do not waste time trying to fix the micro: bit on my own.
+
 
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+In today's society, it is extremely common for people to forget to remain hydrated due to their busy schedule. This project will remind users when they need to drink water to ensure that they remain hydrated and healthy throughout the day. 
 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+### Design concept 1 ###
+![Image](dc11.png)
+
+### Design concept 2 ###
+![Image](dc22.png)
+
+### Final design concept ###
+![Image](fdc.png)
+
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
